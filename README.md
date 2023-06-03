@@ -1,8 +1,5 @@
-# basicportugol
-Se então no portugol. if then in portugol.
 Algoritmo "abc"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 26/05/2023
@@ -10,7 +7,6 @@ Var
 // Seção de Declarações das variáveis 
       nome:caractere
       hora:inteiro
-      msg:caractere
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
      escreva ("Digite seu nome:")
